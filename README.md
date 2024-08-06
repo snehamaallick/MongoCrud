@@ -1,2 +1,2 @@
 # MongoCrud
-Basic crub=d operation using MongoDB and .Net Core
+Basic crud operation using MongoDB and .Net Core
